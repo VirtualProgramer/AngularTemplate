@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+.white-space-no-wrap {
+    white-space: nowrap;
+}
+
+.display-flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.justify-content-start {
+    justify-content: start;
+}
